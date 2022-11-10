@@ -1,0 +1,24 @@
+{
+  "name": "dynamic_thompson_sampling",
+  "version": "1.0.0",
+  "description": "Dynamic Thompson Sampling",
+  "main": "dts.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nszceta/dynamic_thompson_sampling.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nszceta/dynamic_thompson_sampling/issues"
+  },
+  "homepage": "https://github.com/nszceta/dynamic_thompson_sampling#readme",
+  "dependencies": {
+    "jstat": "^1.9.5",
+    "lodash": "^4.17.21",
+    "prompt-sync": "^4.2.0"
+  }
+}
